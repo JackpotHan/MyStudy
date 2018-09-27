@@ -1,4 +1,4 @@
-package com.jackPotHan.myTest;
+package com.jackPotHan.myTest.Java8;
 
 import java.util.Arrays;
 import java.util.List;
@@ -28,6 +28,9 @@ public class LambdaTest {
 
         System.out.println("Print No language:");
         filter(languages,(str)->false);
+
+        System.out.println("print language whose length less than 5:");
+        filter(languages,(str)->str.toString().length() < 5);
     }
 
     public static void filter(List names, Predicate condition) {

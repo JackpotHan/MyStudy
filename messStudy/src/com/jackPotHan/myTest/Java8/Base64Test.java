@@ -1,4 +1,4 @@
-package com.jackPotHan.myTest;
+package com.jackPotHan.myTest.Java8;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
