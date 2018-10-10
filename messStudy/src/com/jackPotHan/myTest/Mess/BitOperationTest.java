@@ -49,7 +49,7 @@ public class BitOperationTest {
 
         System.out.println("'^'位操作符(9^10):"+(9^10));
 
-        System.out.println("'~'位操作符(~ 'a'):" + (~'a'));
+        System.out.println("'~'位操作符(~ 'a'):" + (~'a'));   
 
     }
 }
