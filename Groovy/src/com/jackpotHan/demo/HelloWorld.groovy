@@ -1,4 +1,4 @@
-package com.jackpotHan.demo
+package com.jackpotHan.Demo
 /**
  *
  * @Author: Hanjt

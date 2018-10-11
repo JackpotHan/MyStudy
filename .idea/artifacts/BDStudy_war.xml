@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="BDStudy:war">
-    <output-path>$PROJECT_DIR$/BDStudy/target</output-path>
-    <root id="archive" name="bigDataStudy.war">
-      <element id="artifact" artifact-name="BDStudy:war exploded" />
-    </root>
-  </artifact>
-</component>

@@ -1,4 +1,4 @@
-package com.jackpotHan.sort
+package com.jackpotHan.Sort
 
 /**
  *
