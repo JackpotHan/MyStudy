@@ -8,13 +8,13 @@ package com.jackPotHan
  *
  *
  */
-//def language = 'groovy'
-//def sentence = "$language is awesome!"
-//assert sentence == 'groovy is awesome!'
-//println sentence
-//def improveSentence = "${language.capitalize()} is awesome!"
-//assert improveSentence == 'Groovy is awesome!'
-//println improveSentence
+def language = 'groovy'
+def sentence = "$language is awesome!"
+assert sentence == 'groovy is awesome!'
+println sentence
+def improveSentence = "${language.capitalize()} is awesome!"
+assert improveSentence == 'Groovy is awesome!'
+println improveSentence
 
 
 def x = 1

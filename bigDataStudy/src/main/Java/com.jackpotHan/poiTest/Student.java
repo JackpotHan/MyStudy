@@ -1,4 +1,4 @@
-package com.jackpotHan.Demo;
+package com.jackpotHan.poiTest;
 
 import lombok.*;
 
@@ -9,9 +9,9 @@ import java.util.Date;
  * @Date: 2018/10/9 10:53
  * @Description:
  */
-@Getter
 @Setter
-@ToString
+@Getter
+@Builder
 @AllArgsConstructor
 @NoArgsConstructor
 public class Student {
