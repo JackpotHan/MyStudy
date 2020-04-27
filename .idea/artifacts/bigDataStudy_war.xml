@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bigDataStudy:war">
+    <output-path>$PROJECT_DIR$/hadoop/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bigDataStudy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bigDataStudy.war">
+      <element id="artifact" artifact-name="bigDataStudy:war exploded" />
+    </root>
+  </artifact>
+</component>
