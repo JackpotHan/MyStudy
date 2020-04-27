@@ -11,12 +11,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bigDataStudy" target="1.7" />
-      <module name="groovy" target="1.5" />
-      <module name="hadoop" target="1.7" />
-      <module name="java" target="1.5" />
-      <module name="myStudy" target="1.5" />
-      <module name="study" target="1.5" />
+      <module name="groovy" target="8" />
+      <module name="hadoop" target="8" />
+      <module name="java" target="8" />
+      <module name="myStudy" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
