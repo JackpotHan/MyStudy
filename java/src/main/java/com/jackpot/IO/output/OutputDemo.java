@@ -1,4 +1,4 @@
-package com.jackpot.IO.output;
+package main.java.jackpot.IO.output;
 
 import java.io.*;
 

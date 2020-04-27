@@ -1,4 +1,4 @@
-package com.jackpot.Java8;
+package main.java.jackpot.Java8;
 
 import com.sun.tools.javac.util.List;
 

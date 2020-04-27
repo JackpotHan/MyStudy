@@ -1,4 +1,4 @@
-package com.jackpot.Java10;//package com.jackpotHan.Java10;
+package main.java.jackpot.Java10;//package com.jackpotHan.Java10;
 //
 //import java.net.MalformedURLException;
 //import java.net.URL;

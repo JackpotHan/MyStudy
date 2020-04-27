@@ -1,4 +1,4 @@
-package com.jackpot.mess;
+package main.java.jackpot.mess;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

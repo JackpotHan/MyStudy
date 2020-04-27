@@ -1,4 +1,4 @@
-package com.jackpot.Java8;
+package main.java.jackpot.Java8;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;

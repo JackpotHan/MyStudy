@@ -1,4 +1,4 @@
-package com.jackpot.Thread;
+package main.java.jackpot.Thread;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;

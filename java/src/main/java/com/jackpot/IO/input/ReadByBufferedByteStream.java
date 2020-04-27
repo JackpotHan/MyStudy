@@ -1,4 +1,4 @@
-package com.jackpot.IO.input;
+package main.java.jackpot.IO.input;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

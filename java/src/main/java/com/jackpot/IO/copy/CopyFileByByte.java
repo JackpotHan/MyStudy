@@ -1,4 +1,4 @@
-package com.jackpot.IO.copy;
+package main.java.jackpot.IO.copy;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

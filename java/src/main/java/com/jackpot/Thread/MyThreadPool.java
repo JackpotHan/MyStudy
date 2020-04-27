@@ -1,4 +1,4 @@
-package com.jackpot.Thread;
+package main.java.jackpot.Thread;
 
 import java.util.concurrent.*;
 

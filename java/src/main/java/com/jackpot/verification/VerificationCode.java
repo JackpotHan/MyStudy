@@ -1,4 +1,4 @@
-package com.jackpot.verification;
+package main.java.jackpot.verification;
 
 import java.awt.image.BufferedImage;
 
